@@ -1,4 +1,4 @@
-# case_food_delivery
+# CRM Data Analysis
 
 ## Projeto para classificar a probabilidade de clientes compradores e o time de marketing conseguir direcionar a campanha para maximizar o retorno sobre o investimento.
 
